@@ -8,13 +8,13 @@ Lightning is a script only for the support on [**Stay Alive**](https://www.roblo
   
   Prefix: -
   
-  k / kill
-  to / tp / goto
-  wl / whitelist
-  uw / uwl / unwl / unwhitelist
-  cw / cwl / clearwl / clearwhitelist
-  rj / rejoin
-  sh / hop / shop / serverhop
+  -k / -kill
+  -to / -tp / -goto
+  -wl / -whitelist
+  -uw / -uwl / -unwl / -unwhitelist
+  -cw / -cwl / -clearwl / -clearwhitelist
+  -rj / -rejoin
+  -sh / -hop / -shop / -serverhop
 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/Lightning/main/script.lua", true))();
